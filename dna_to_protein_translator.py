@@ -1,4 +1,4 @@
-""" my python code created from scratch; commented out lines were used to troubleshoot and check that my results were what I wanted """
+""" my python code created from scratch; commented out lines were used to troubleshoot and check my results """
 dnadict = {}
 lines = open("codon_table-1.dat", "r")
 for line in lines:
